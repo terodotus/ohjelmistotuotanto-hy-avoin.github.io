@@ -7,16 +7,6 @@ permalink: /tehtavat2/
 
 ## Viikko 2
 
-**HUOM**: [Kurssikoe](https://courses.helsinki.fi/fi/TKT20006/133010615) maanantaina 16.12. 9-12 salissa A111. Kokeeseen tulee ilmoittautua viimeistään 10 päivää ennen kokeen alkua. Ilmoittautuminen kokeeseen alkaa 16.11.
-
-*Alla olevien tehtävien deadline on maanantaina 11.11. klo 23:59*
-
-Apua tehtävien tekoon kurssin [Telegram](https://telegram.me/ohjelmistotuotanto)-kanavalla sekä pajassa
-- ma 14-16 B221 
-- ke 14-16 B221
-
-Muista myös tämän viikon [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/2), joiden deadline on sunnuntaina 10.11. klo 23:59:00.  
-
 Viikon ensimmäisessä tehtävässä tutustutaan tarkemmin gradleen. Toinen ja kolmas tehtävä käsittelevät koodin _staattisen analyysin_ työkalua checkstyleä. Gitiin tutustuminen jatkuu tehtävissä 4-8. Laskarien lopuksi jatketaan _riippuvuuksien injektoinnin_ parissa. 
 
 ### Typoja tai epäselvyyksiä tehtävissä?
@@ -27,7 +17,7 @@ Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://gi
 
 Osa git-tehtävistä (tehtävät 4-6) tehdään ainoastaan paikalliseen repositorioon, eli ne eivät näy palautuksessa mitenkään.
 
-Muut tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Muut tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>
 
 Tehtävät 2 ja 3 laajentavat viime viikon ensimmäistä tehtäväsarjaa, eli ne palautetaan samaan repositorioon kuin Ohtuvarasto. Muut tehtävät voit palauttaa samaan repositorioon mihin palautit ensimmäisen viikon tehtävät 14-16.
 
@@ -506,4 +496,4 @@ public static void main(String[] args) {
 
 ### Tehtävien palautus
 
-Pushaa kaikki tekemäsi tehtävät (paitsi ne joissa mainitaan, että tehtävää ei palauteta mihinkään) GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Pushaa kaikki tekemäsi tehtävät (paitsi ne joissa mainitaan, että tehtävää ei palauteta mihinkään) GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>

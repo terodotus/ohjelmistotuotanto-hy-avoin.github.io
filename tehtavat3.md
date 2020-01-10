@@ -7,16 +7,6 @@ permalink: /tehtavat3/
 
 ## Viikko 3
 
-**HUOM**: [kurssikoe](https://courses.helsinki.fi/fi/TKT20006/133010615) maanantaina 16.12. 9-12 salissa A111. Kokeeseen tulee ilmoittautua viimeistään 10 päivää ennen kokeen alkua. Ilmoittautuminen kokeeseen alkaa 16.11.
-
-*Alla olevien tehtävien deadline on maanantaina 18.11. klo 23:59*
-
-Apua tehtävien tekoon kurssin [Telegram](https://telegram.me/ohjelmistotuotanto)-kanavalla sekä pajassa
-- ma 14-16 B221 
-- ke 14-16 B221
-
-Muista myös tämän viikon [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/3), joiden deadline on sunnuntaina 17.11. klo 23:59:00.  
-
 Tehtävissä 1-3 tutustutaan siihen miten gradle-sovelluksiin lisätään ulkoisia kirjastoja riippuvuudeksi, sekä miten riippuvuuksia sisältävästä koodista saadaan generoitua jar-paketti. Loput tehtävät liittyvät storyjen hyväksymistestauksen automatisointiin tarkoitetun Cucumberin, sekä selainsovellusten testaamiseen käytettävän Selenium-kirjaston soveltamiseen. 
 
 ### Typoja tai epäselvyyksiä tehtävissä?
@@ -25,7 +15,7 @@ Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://gi
 
 ### Tehtävien palauttaminen
 
-Tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>
 
 Katso tarkempi ohje palautusrepositorioita koskien [täältä](/tehtavat1#teht%C3%A4vien-palautusrepositoriot).
 
@@ -747,6 +737,6 @@ Scenario: user can not login with account that is not successfully created
 
 ### Tehtävien palautus
 
-Pushaa kaikki tekemäsi tehtävät GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Pushaa kaikki tekemäsi tehtävät GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>
 
 Huom! Varmista, että salasanat.txt on lisätty .gitignoreen. Jos ei ole, lisää se sinne. Et halua salasanojesi, edes testeissä käytettävien, päätyvän githubiin.

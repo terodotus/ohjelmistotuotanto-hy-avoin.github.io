@@ -7,24 +7,13 @@ permalink: /tehtavat7/
 
 ## Viikko 7
 
-**HUOM**: [kurssikoe](https://courses.helsinki.fi/fi/TKT20006/133010615) maanantaina 16.12. 9-12 salissa A111. Kokeeseen tulee ilmoittautua viimeistään 10 päivää ennen kokeen alkua. 
-
-*Alla olevien tehtävien deadline on maanantaina 16.12. klo 23:59*
-
-Apua tehtävien tekoon kurssin [Telegram](https://telegram.me/ohjelmistotuotanto)-kanavalla sekä pajassa
-- ke 14-16 B221
-
-Maanantain pajaa ei tällä viikolla pidetä.
-
-Muista myös tämän viikon [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/7), joiden deadline on poikkeuksellisesti perjantaina 20.12 klo 23:59:00. Tehtävät ilmestyvät ke 12.12. klo 23 mennessä.  
-
 ### Typoja tai epäselvyyksiä tehtävissä?
 
 Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/master/tehtavat7.md) tiedostoa GitHubissa.
 
 ### Tehtävien palauttaminen
 
-Tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>
 
 Katso tarkempi ohje palautusrepositorioita koskien [täältä](/tehtavat1#teht%C3%A4vien-palautusrepositoriot).
 
@@ -98,32 +87,10 @@ __/
 
 Jos teet tehtävän mielestäsi kaikkien tyylisääntöjen mukaan, merkkaa 2 rastia, jos ratkaisu ei ole kaikin osin tyylikäs, merkkaa yksi rasti.
 
-### 5. Lunttilappu
-
-_tehtävän ei tarvitse näkyä palautuksessa, riittää kun teet tehtävät_
-
-Kertaa koealue ja tee koetta varten käsinkirjoitettu, A4:n kokoinen lunttilappu (molempien puolien käyttö sallittu) ks. [ohje kokeeseen](/ohje_kokeeseen)
-
-### 6. Pull requestin mergeäminen (tätä tehtävää ei lasketa versionhallintatehtäväksi)
-
-Mergeä jokin miniprojektillesi tehty pull request (myös toisen miniprojektisi jäsenen tekemän pull requestin mergeäminen käy). Voit tehdä tehtävän yhdessä muiden miniprojektisi ryhmäläisten kanssa. Jos olet jo mergennyt pull requestin miniprojektiisi kurssin aikana, se riittää tämän tehtävä merkkaamiseksi. 
-
-Laita palautusrepositorioosi tiedosto _MERGE.md_ ja sen sisällöksi linkki mergettyyn pullrequestiin. 
-
-**Vaihtoehtoinen tehtävä**
-
-Jos et ollut miniprojektissa tai et halua tehdä mergeämistä, voit merkata tehtävän tehdyksi listaamalla kurssin monivalintatehtävistä ne, jotka on ilmaistu mielestäsi epäselvästi tai moniselitteisesti. 
-
-Laita palautusrepositorioosi tiedosto _QUIZZ.md_, ja listaa epäselvät kohdat sinne.
-
-**Toinen vaihtoehtoinen tehtävä**
-
-Toinen korvaava vaihtoehto on kirjoittaa referaatti, viime vuoden [laskareiden speksin](https://github.com/mluukkai/Ohjelmistotuotanto2018/blob/master/laskarit/7.md#4-referaatti) mukaan.
-
-### 7. Kurssipalaute
+### 5. Kurssipalaute
 
 Anna kurssipalautetta WebOodissa. Voit antaa palautteen myös kokeen jälkeen. Rasti tähän tehtävään on lupaus että annat palautteen jossain vaiheessa.
 
 ### Tehtävien palautus
 
-Pushaa kaikki tekemäsi tehtävät GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu2019>
+Pushaa kaikki tekemäsi tehtävät GitHubiin ja merkkaa tekemäsi tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>

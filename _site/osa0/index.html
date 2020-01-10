@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Osa 0</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/osa0/">
+  <link rel="alternate" type="application/rss+xml" title="Ohjelmistotuotanto avoin yliopisto 2020" href="/feed.xml">
+
+  
+</head>
+
+
+  <body>
+    
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" href="/">Ohjelmistotuotanto avoin yliopisto 2020</a>
+    
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+            <a class="page-link" href="/osa0/">Osa 0</a>
+            
+          
+            
+            
+            <a class="page-link" href="/osa1/">Osa 1</a>
+            
+          
+            
+            
+            <a class="page-link" href="/osa2/">Osa 2</a>
+            
+          
+            
+            
+            <a class="page-link" href="/osa3/">Osa 3</a>
+            
+          
+            
+            
+            <a class="page-link" href="/osa4/">Osa 4</a>
+            
+          
+            
+            
+            <a class="page-link" href="/osa5/">Osa 5</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+            <a class="page-link" href="/tehtavat/">Tehtävät</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+          
+        </div>
+      </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Johdanto</h1>
+  </header>
+
+  <div class="post-content">
+    <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+  <img alt="Creative Commons -lisenssi" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" />
+</a></p>
+
+<p>Kurssi on jo ohjelmointia hallitseville tarkoitettu johdanto <em>ohjelmistotuotantoon</em>, eli systemaattiseen tapaan tehdä hieman laajempia ohjelmistoja useamman hengen tiimissä ulkoiselle asiakkaalle. Erityinen paino kurssilla on niin sanotuissa ketterissä ohjelmistotuotantomenetelmissä.</p>
+
+<p>Kurssin suoritettuaan opiskelijan tulisi omata riittävät tiedolliset ja tekniset valmiudet toimia juniorikehittäjän roolissa pienessä ohjelmistotiimissä, esimerkiksi Tietojenkäsittelytieteen osaston opintojaksolla <a href="https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantoprojekti">ohjelmistotuotantoprojekti</a>, joka järjestetään alkukesästä 2020 myös <a href="https://courses.helsinki.fi/fi/aytkt20007/129324912">avoimessa yliopistossa</a>.</p>
+
+<p>Hieman tarkemmin eriteltynä, suoritettuaan kurssin opiskelija</p>
+<ul>
+  <li>tuntee ohjelmistoprosessin vaiheet (vaatimusmäärittely, suunnittelu, toteutus ja laadunhallinta)</li>
+  <li>tietää miten vaatimuksia hallitaan ketterässä ohjelmistotuotantoprosessissa</li>
+  <li>ymmärtää suunnittelun, toteutuksen ja testauksen vastuut ja luonteen ketterässä ohjelmistotuotannossa</li>
+  <li>ymmärtää ohjelmiston laadunhallinnan perusteet</li>
+  <li>osaa toimia ympäristössä, jossa ohjelmistokehitys tapahtuu hallitusti ja toistettavalla tavalla</li>
+</ul>
+
+<h2 id="kurssin-suorittaminen-ja-arvostelu">Kurssin suorittaminen ja arvostelu</h2>
+
+<p>Kurssi alkaa 15.1. ja päättyy 30.4. Kurssin suoritusnopeus on vapaa, mutta kurssi on suunniteltu suoritettavaksi seitsemässä viikossa, jolloin viikoittain edellytettävä työmäärä on noin 10-15 tuntia.</p>
+
+<p>Kurssi koostuu neljästä komponentiosta:</p>
+<ul>
+  <li>ohjelmotuotannon teoriaa käsittelevästä kirjallinen materiaali sekä videot</li>
+  <li>harjoitustehtävät</li>
+  <li>miniprojekti</li>
+  <li>kurssikoe</li>
+</ul>
+
+<p>Kurssin voi suorittaa joko 5 tai 6 opintopisteen laajuisena.</p>
+
+<p>Kuuden opintopisteen laajuinen suoritus edellyttää <em>miniprojektiin</em> osallistumista.</p>
+
+<h3 id="teoria">Teoria</h3>
+
+<p>Kurssin kirjallisessa materiaalissa käydään läpi ohjelmistotuotantoon liittyvää käsitteistöä ja teoriaa. Teoriamateriaalia täydentää neljä videoitua ohjelmistoalan asiantuntijaluentoa.</p>
+
+<h3 id="harjoitustehtävät">Harjoitustehtävät</h3>
+
+<p>Etenemisnopeus kurssilla siis on vapaa, mutta kurssi sisältää seitsemän “viikkoa” harjoitustehtäviä.</p>
+
+<p>Tehtäviä harjoituksissa on kahden tyyppisiä:</p>
+<ul>
+  <li>teoriaa kertaavat <em>monivalintatehtävät</em></li>
+  <li>ohjelmistotuotantoon liittyviä teknisempiä asioita, kuten versionhallintaa, testaamista ja ohjelmistojen konfigurointia käsittelevät <em>tekniset</em> tehtävät</li>
+</ul>
+
+<p>Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia “viikkojen” 1-3 aikana ja sen jäleen 4 tuntia “viikossa”. Monivalintatehtäviin vastaaminen on suhteellisen nopeaa, mutta järkevästi vaastaaminen edellyttää materiaalin huolellista lukemista.</p>
+
+<h3 id="kurssikoe">Kurssikoe</h3>
+
+<p>Moodlessa tehtävä kurssikoe keskittyy teoriamateriaalissa oleviin asioihin.</p>
+
+<p>Kurssilla on kolme koeajankohtaa</p>
+<ul>
+  <li>lauantai 14.3.2020</li>
+  <li>lauantai 4.4.2020</li>
+  <li>lauantai 25.4.2020</li>
+</ul>
+
+<p>Näiden lisäksi järjestetään uusintakoe lauantaina 9.5.2020</p>
+
+<h3 id="miniprojekti">Miniprojekti</h3>
+
+<p>Kurssin suorittaminen 6 opintopisteen laajuisena edellyttää <em>miniprojektiin</em> osallistumista.</p>
+
+<p>Miniprojekti on ryhmässä tehtävä pieni harjoitustyö, jonka pääasiallisena tehtävänä on projektinhallinnan sekä eräiden laadunhallintatekniikkoiden harjoittelu.</p>
+
+<p>Kukin miniprojektiryhmä koostuu 4-6 opiskelijasta, ryhmillä on myös asiakas, jota ryhmä tapaa viikoittain neljän viikon ajan. Ensimmäisellä viikolla asiakastapaamiseen tulee varata 90 minuuttia, jälkimmäisillä 30 minuuttia.</p>
+
+<p>Miniprojekteissa työskentelyyn tulee varata yhteensä noin 6 tuntia aikaa viikossa.</p>
+
+<p>Jokaisen miniprojektiin osallistuvan tulee osallistua fyysiesti ainakin ensimmäiseen asiakastapaamiseen, joka järjestetään Helsingin yliopiston Kumpulan kampuksella.</p>
+
+<p>Miniprojekteja järjestetään sekä maalis- että huhtikuussa. Ensimmäisten asiakastapaamisten ajankohdasta tiedotetaan myöhemmin.</p>
+
+<h3 id="kurssin-arvostelu">Kurssin arvostelu</h3>
+
+<p>Kurssin voi siis suorittaa joko 5 tai 6 opintopisteen laajuisena.</p>
+
+<h4 id="6-opintopisteen-suoritus">6 opintopisteen suoritus</h4>
+
+<p>Kuuden opintopisteen suorituksessa jaossa yhteensä 40 pistettä, jotka jakautuvat eri komponenttien kesken seuraavasti</p>
+
+<ul>
+  <li>harjoitukset 11 pistettä
+    <ul>
+      <li>monivalintatehtävät 3 pistettä</li>
+      <li>ohjelmointi/versionhallinta/konfigurointitehtävät 8 pistettä</li>
+    </ul>
+  </li>
+  <li>miniprojekti 9 pistettä</li>
+  <li>koe 20 pistettä</li>
+</ul>
+
+<p>Arvosanaan 1 riittää 20 pistettä, arvosanaan 5 tarvitaan 36 pistettä.</p>
+
+<p>Läpipääsy edellyttää vähintään puolia kokeen pisteistä.</p>
+
+<h4 id="5-opintopisteen-suoritua">5 opintopisteen suoritua</h4>
+
+<p>Viiden opintopisteen suorituksessa pisteitä on jaossa 31 pistettä: harjoitukset 11 ja koe 20 pistettä. Näin saatu pistemäärä kerrotaan 40/31:llä, ja arvosana määräytyy samoin kuin 6 opintopisteen suorituksessa.</p>
+
+<h4 id="harjoitustehtävien-pisteytysperusteet">Harjoitustehtävien pisteytysperusteet</h4>
+
+<p>Viikoittaisista monivalintatehtävistä on siis tarjolla <em>3 kurssipistettä</em>. Täysiin kurssipisteisiin riittää 90% <em>monivalintakysymyspisteistä (mvp)</em>.</p>
+
+<p>Kaikki monivalitatehtävät ovat joukkoja väittämiä, joista jokainen voi olla oikein tai väärin. Jokaisen viikon monivalintakysymyksistä on tarjolla yksi <em>mvp</em>, joka lasketaan seuraavan kaavan mukaan:</p>
+<ul>
+  <li>jos <em>oikeatVastaukset/vaittamaLukumaara</em> on pienempi tai yhtäsuuri kuin 0.45, on tuloksena 0 mvp:tä.</li>
+  <li>jos <em>oikeatVastaukset/vaittamaLukumaara</em> on enemmän kuin 0.45, kasvaa mvp-määrä lineaarisesti siten, että kaikki kohdat oikein tuo yhden mvp:n.</li>
+</ul>
+
+<p>“Teknisistä” harjoitustehtävistä on tarjolla <em>8 kurssipistettä</em>. Täysiin kurssipisteisiin edellytetään 90 % normaalien laskareiden tekemistä.</p>
+
+<h3 id="luennot---laskuharjoitukset---miniprojekti">Luennot - laskuharjoitukset - miniprojekti</h3>
+
+<p>Kurssi siis sisältää kolme pääkomponenttia, teoriamateriaalin, harjoitustehtävät sekä miniprojektin. Komponentit ovat luonteeltaan melko erilaisia, ja se on joskus aiheuttanut hämmennystä opiskelijoiden keskuudessa.</p>
+
+<p>Kurssimateriaalissa keskitytään pääosin ohjelmistokehityksen teoriaan ja käsitteistöön.</p>
+
+<p>Versionhallintaa, ohjelmistojen konfigurointia, testausta ja ohjelmointia käsittelevien teknisempien tehtävien aihepiirejä ei taas teoriamateriaalissa käsitellä oikeastaan ollenkaan, poislukien testaukseen liittyvä teoria.</p>
+
+<p>Miniprojektin ideana on yhdistää teoria ja harjoituksissa käsitellyt teknisemmät asiat, ja soveltaa niitä käytännössä pienessä ohjelmistoprojektissa.</p>
+
+<p>Kokeessa suurin paino on teoriassa ja sen soveltamisessa käytäntöön. Harjoitustehtävien teknisimpiä asioita, kuten versionhallintaa ei kokeessa kysytä.</p>
+
+<p>Kuten kohta tulemme näkemään, ohjelmistotuotanto kattaa suuren kirjon erilaisia asioita alkaen ihmisten johtamisesta aina teknisimpiin komentoriviltä suoritettaviin operaatioihin asti. Sama heijastuu myös kurssin rakenteessa, kurssilla on eri henkisiä komponentteja, näistä yksikään ei ole muita tärkeämpi, kullakin on oma painoarvonsa kurssin arvostelussa. Teoria-asioita arvioidaan koemenestyksen perusteella, käytännöllisimpiä asioita taas “jatkuvana arviona” harjoitustehtävistä kertyvien pisteiden ja miniprojektissa suoriutumisen perusteella.</p>
+
+<h2 id="typoja-materiaalissa">Typoja materiaalissa</h2>
+
+<p>Kun huomaat kurssimateriaalissa kirjoitusvirheitä, tee korjausehdotus. Kurssimateriaali on repositoriossa
+<a href="https://github.com/ohjelmistotuotanto-hy-avoin/ohjelmistotuotanto-hy-avoin.github.io">https://github.com/ohjelmistotuotanto-hy-avoin/ohjelmistotuotanto-hy-avoin.github.io</a> tiedostoissa <a href="https://github.com/ohjelmistotuotanto-hy-avoin/ohjelmistotuotanto-hy-avoin.github.io/blob/master/osa0.md">osa0.md</a> jne.</p>
+
+<p>Muutosehdotuksen tekeminen aloitetaan painamalla tiedoston <em>kynä-symbolia</em>:</p>
+
+<p><img src="http://localhost:4000/images/0-1.png" alt="" /></p>
+
+<p>Kun teksti on editoitu halutunkaltaiseksi, luodaan muutosehdotus sivun alalaidasta:</p>
+
+<p><img src="http://localhost:4000/images/0-2.png" alt="" /></p>
+
+<p>Tämän jälkeen vielä luodaan muutosehdotuksesta <em>pull request</em></p>
+
+<p><img src="http://localhost:4000/images/0-3.png" alt="" /></p>
+
+<p>Kun kaikki klikkailu on tehty, syntyy materiaalirepositorioon pull request</p>
+
+<p><img src="http://localhost:4000/images/0-4.png" alt="" /></p>
+
+<p>Ja kun kurssihenkilökunta mergeää pull requestin, typo korjautuu materiaalista.</p>
+
+  </div>
+
+</article>
+      </div>
+    </main>
+
+     <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+             Ohjelmistotuotanto avoin yliopisto 2020 
+          </li>
+          <li>
+            <a href="mailto:matti.luukkainen@helsinki.fi">matti.luukkainen@helsinki.fi</a>
+          </li>
+          <li>
+            <a href="https://github.com/mluukkai"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">mluukkai</span></a>
+
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+           
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+            <img alt="Creative Commons -lisenssi" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"
+            />
+          </a>
+          <br/> Materiaali on lisensoitu
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0 -lisenssillä</a>.
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+  
+  </body>
+
+</html>
