@@ -32,7 +32,7 @@ Kurssin kokeen sekä tehtävien tekeemiseen/palauttamiseen tarvitset Helsingin y
 
 Kurssi alkaa 15.1. ja päättyy 30.4. Kurssin suoritusnopeus on vapaa, mutta kurssi on suunniteltu suoritettavaksi seitsemässä viikossa, jolloin viikoittain edellytettävä työmäärä on noin 10-15 tuntia.
 
-Kurssi koostuu neljästä komponentiosta:
+Kurssi koostuu neljästä komponentista:
 - ohjelmotuotannon teoriaa käsittelevästä kirjallinen materiaali sekä videot
 - harjoitustehtävät
 - miniprojekti
@@ -48,13 +48,13 @@ Kurssin kirjallisessa materiaalissa käydään läpi ohjelmistotuotantoon liitty
 
 ### Harjoitustehtävät
 
-Etenemisnopeus kurssilla siis on vapaa, mutta kurssi sisältää seitsemän "viikkoa" harjoitustehtäviä.
+Kurssi sisältää seitsemän harjoitustehtäviikkoa. Etenemisnopeus kurssilla on siis vapaa, joten voit suorittaa tehtävät haluamassasi tahdissa.
 
 Tehtäviä harjoituksissa on kahden tyyppisiä: 
 - teoriaa kertaavat _monivalintatehtävät_
 - ohjelmistotuotantoon liittyviä teknisempiä asioita, kuten versionhallintaa, testaamista ja ohjelmistojen konfigurointia käsittelevät _tekniset_ tehtävät
 
-Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia "viikkojen" 1-3 aikana ja sen jäleen 4 tuntia "viikossa". Monivalintatehtäviin vastaaminen on suhteellisen nopeaa, mutta järkevästi vaastaaminen edellyttää materiaalin huolellista lukemista.
+Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia "viikkojen" 1-3 aikana ja sen jälkeen 4 tuntia "viikossa". Monivalintatehtäviin vastaaminen on suhteellisen nopeaa, mutta järkevästi vaastaaminen edellyttää materiaalin huolellista lukemista.
 
 ### Kurssikoe
 
@@ -65,13 +65,15 @@ Kurssilla on kolme koeajankohtaa
 - lauantai 4.4.2020
 - lauantai 25.4.2020
 
+Kokeen voi aloittaa mihin aikaan tahansa koepäivänä. Kokeessa on vastausaikaa 3 tuntia.
+
 Näiden lisäksi järjestetään uusintakoe lauantaina 9.5.2020
 
 ### Miniprojekti
 
 Kurssin suorittaminen 6 opintopisteen laajuisena edellyttää _miniprojektiin_ osallistumista. 
 
-Miniprojekti on ryhmässä tehtävä pieni harjoitustyö, jonka pääasiallisena tehtävänä on projektinhallinnan sekä eräiden laadunhallintatekniikkoiden harjoittelu. 
+Miniprojekti on ryhmässä tehtävä pieni harjoitustyö, jonka pääasiallisena tarkoituksena on projektinhallinnan sekä eräiden laadunhallintatekniikkoiden harjoittelu. 
 
 Kukin miniprojektiryhmä koostuu 4-6 opiskelijasta, ryhmillä on myös asiakas, jota ryhmä tapaa viikoittain neljän viikon ajan. Ensimmäisellä viikolla asiakastapaamiseen tulee varata 90 minuuttia, jälkimmäisillä 30 minuuttia. 
 
@@ -79,7 +81,9 @@ Miniprojekteissa työskentelyyn tulee varata yhteensä noin 6 tuntia aikaa viik
 
 Jokaisen miniprojektiin osallistuvan tulee osallistua fyysiesti ainakin ensimmäiseen asiakastapaamiseen, joka järjestetään Helsingin yliopiston Kumpulan kampuksella. 
 
-Miniprojekteja järjestetään sekä maalis- että huhtikuussa. Ensimmäisten asiakastapaamisten ajankohdasta tiedotetaan myöhemmin.
+Miniprojekteja järjestetään sekä maalis- että huhtikuussa. Ensimmäisten asiakastapaamisten ajankohdasta tiedotetaan myöhemmin. 
+
+Voit osallistua miniprojektiin siinä vaiheessa kun olet tehnyt vähintään kurssin neljän ensimmäisen viikon tehtävät.
 
 ### Kurssin arvostelu
 
@@ -87,7 +91,7 @@ Kurssin voi siis suorittaa joko 5 tai 6 opintopisteen laajuisena.
 
 #### 6 opintopisteen suoritus
 
-Kuuden opintopisteen suorituksessa jaossa yhteensä 40 pistettä, jotka jakautuvat eri komponenttien kesken seuraavasti
+Kuuden opintopisteen suorituksessa on jaossa yhteensä 40 pistettä, jotka jakautuvat eri komponenttien kesken seuraavasti
 
 - harjoitukset 11 pistettä
   - monivalintatehtävät 3 pistettä 
@@ -102,6 +106,8 @@ Läpipääsy edellyttää vähintään puolia kokeen pisteistä.
 #### 5 opintopisteen suoritua
 
 Viiden opintopisteen suorituksessa pisteitä on jaossa 31 pistettä: harjoitukset 11 ja koe 20 pistettä. Näin saatu pistemäärä kerrotaan 40/31:llä, ja arvosana määräytyy samoin kuin 6 opintopisteen suorituksessa.
+
+Läpipääsy edellyttää vähintään puolia kokeen pisteistä.
 
 #### Harjoitustehtävien pisteytysperusteet
 
