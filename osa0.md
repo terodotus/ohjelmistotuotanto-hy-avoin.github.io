@@ -22,6 +22,12 @@ Hieman tarkemmin eriteltynä, suoritettuaan kurssin opiskelija
 - ymmärtää ohjelmiston laadunhallinnan perusteet
 - osaa toimia ympäristössä, jossa ohjelmistokehitys tapahtuu hallitusti ja toistettavalla tavalla
 
+## Ilmoittautuminen
+
+Kurssille ilmoittaudutaan [avoimen yliopiston](https://courses.helsinki.fi/fi/aytkt20006/129239628) sivuilla.
+
+Kurssin kokeen sekä tehtävien tekeemiseen/palauttamiseen tarvitset Helsingin yliopiston käyttäjätunnuksen. Ohje tunnuksen aktivoimiseen [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opinnoissa-alkuun/helsingin-yliopiston-kayttajatunnus). Huomaa, että aktivoiminen onnistuu vasta ilmoittautumista seuraavana päivänä.
+
 ## Kurssin suorittaminen ja arvostelu
 
 Kurssi alkaa 15.1. ja päättyy 30.4. Kurssin suoritusnopeus on vapaa, mutta kurssi on suunniteltu suoritettavaksi seitsemässä viikossa, jolloin viikoittain edellytettävä työmäärä on noin 10-15 tuntia.

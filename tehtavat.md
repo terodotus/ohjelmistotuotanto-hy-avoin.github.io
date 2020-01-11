@@ -13,6 +13,8 @@ Kurssiin liittyy viikottaiset laskuharjoitukset. Tehtäviä harjoituksissa on _k
 
 Tehtävien vaikutus kurssin arvosteluun selviää [osasta 0](/osa0#kurssin-arvostelu).
 
+Tehtävien palauttamiseen tarvitset Helsingin yliopiston käyttäjätunnuksen. Ohje tunnuksen aktivoimiseen [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opinnoissa-alkuun/helsingin-yliopiston-kayttajatunnus). 
+
 Apua tehtävien tekoon kurssin [Telegram](https://telegram.me/ohjelmistotuotanto)-kanavalla 
 
 Etenemisnopeus kurssilla on vapaa, kaikkien tehtävien deadline on 30.4.2020 klo 23:59:59

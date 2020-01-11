@@ -17,6 +17,8 @@ Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://gi
 
 ### Tehtävien palauttaminen
 
+Tehtävien palauttamiseen tarvitset Helsingin yliopiston käyttäjätunnuksen. Ohje tunnuksen aktivoimiseen [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opinnoissa-alkuun/helsingin-yliopiston-kayttajatunnus). Huomaa, että aktivoiminen onnistuu vasta ilmoittautumista seuraavana päivänä.
+
 Tehtävät palautetaan GitHubiin, sekä merkitsemällä tehdyt tehtävät palautussovellukseen <https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020>. Käytännössä tällä viikolla tehdään palautusta varten kaksi erillistä GitHub-repositoria, ensimmäinen tehtäviä 2-13 varten ja toinen tehtäviä 14-16 varten. Jos et vielä tiedä mikä on GitHub ja repositorio, niin pian opit.
 
 Tehtävää 1 ei varsinaisesti palauteta minnekään.
