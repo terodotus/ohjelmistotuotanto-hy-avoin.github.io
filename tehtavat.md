@@ -7,8 +7,8 @@ permalink: /tehtavat/
 
 ## Tehtävät
 
-Kurssiin liittyy viikottaiset laskuharjoitukset. Tehtäviä harjoituksissa on _kahden tyyppisiä_ 
-- luennoilla ja kurssi materiaalissa käytävää teoriaa kertaavat _viikoittaiset monivalintatehtävät_
+Kurssiin liittyy joukko viikoittaisia harjoitustehtäviä. Tehtäviä on _kahden tyyppisiä_ 
+- kurssi materiaalissa läpikäytävää teoriaa kertaavat _viikoittaiset monivalintatehtävät_
 - toinen osa tehtävistä käsittelee ohjelmistotuotantoon liittyviä teknisempiä asioita, kuten versionhallintaa, testaamista ja ohjelmistojen konfigurointia
 
 Tehtävien vaikutus kurssin arvosteluun selviää [osasta 0](/osa0#kurssin-arvostelu).
