@@ -21,7 +21,7 @@ Etenemisnopeus kurssilla on vapaa, kaikkien tehtävien deadline on 30.4.2020 klo
 
 ### Viikko 1
 
-- [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020/quiz/1) (ilmestyvät 16.1.)
+- [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu-avoin-2020/quiz/1) (ilmestyvät 17.1.)
 - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat1) 
 
 ### Viikko 2
