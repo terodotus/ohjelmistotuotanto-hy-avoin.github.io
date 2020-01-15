@@ -58,14 +58,14 @@ Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia "viikkojen" 1-3 aika
 
 ### Kurssikoe
 
-Moodlessa tehtävä kurssikoe keskittyy teoriamateriaalissa oleviin asioihin.
+Avoimen yliopiston Moodle-järjestelmässä tehtävä kurssikoe keskittyy teoriamateriaalissa oleviin asioihin.
 
 Kurssilla on kolme koeajankohtaa
 - lauantai 14.3.2020
 - lauantai 4.4.2020
 - lauantai 25.4.2020
 
-Kokeen voi aloittaa mihin aikaan tahansa koepäivänä. Kokeessa on vastausaikaa 3 tuntia.
+Kokeen voi aloittaa mihin aikaan tahansa koepäivänä. Kokeessa on vastausaikaa 3 tuntia. Kokeen voi tehdä mistä tahansa riittävän hyvän internetyhteyden omaavasta paikasta.
 
 Näiden lisäksi järjestetään uusintakoe lauantaina 9.5.2020
 
