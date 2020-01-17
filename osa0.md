@@ -54,7 +54,7 @@ Tehtäviä harjoituksissa on kahden tyyppisiä:
 - teoriaa kertaavat _monivalintatehtävät_
 - ohjelmistotuotantoon liittyviä teknisempiä asioita, kuten versionhallintaa, testaamista ja ohjelmistojen konfigurointia käsittelevät _tekniset_ tehtävät
 
-Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia "viikkojen" 1-3 aikana ja sen jälkeen 4 tuntia "viikossa". Monivalintatehtäviin vastaaminen on suhteellisen nopeaa, mutta järkevästi vaastaaminen edellyttää materiaalin huolellista lukemista.
+Harjoitustehtävien oletettu kuormittavuus on noin 8 tuntia "viikkojen" 1-3 aikana ja sen jälkeen 4 tuntia "viikossa". Monivalintatehtäviin vastaaminen on suhteellisen nopeaa, mutta järkevästi vastaaminen edellyttää materiaalin huolellista lukemista.
 
 ### Kurssikoe
 
