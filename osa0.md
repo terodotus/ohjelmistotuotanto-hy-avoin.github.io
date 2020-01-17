@@ -155,6 +155,87 @@ Projektiin osallistujilla tulee olla ennen projektin alkua suoritettuna tämän 
 
 Jos olet kiinnostunut projektiin osallistumisesta (etkä ole tietojenkäsittelytieteen pääaineopiskelija), lähetä sähköpostia osoitteeseen matti.luukkainen@helsinki.fi
 
+## Aikataulu ja sisältö
+
+Kurssin suoritusnopeus on siis vapaa, ja ainoa deadline harjoitustehtäville on 30.4. Kurssin "ohjeellinen" suoritusaika on 7 viikkoa. Tällöin läpikäytävä teoria ja tehtävät jakautuvat seuraavasti:
+
+### Viikko 1
+
+- Teoria (osat [0](/osa0) ja [1](/osa0))
+  - [Johdanto](/osa0)
+  - [Ohjelmistotuotantoprosessin vaiheet](/osa1#ohjelmistotuotanto-ja-sen-osa-alueet) 
+  - [Ketterä ohjelmistokehitys](/osa1#ketterä-ohjelmistokehitys)
+  - [Scrum](/osa1#scrum)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/1) 
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat1) 
+
+### Viikko 2
+
+- Teoria (osa [2](/osa2))
+  - [Vaatimusmäärittely](/osa2#vaatimusmäärittely)
+  - [Ketterä vaatimusten hallinta](/osa2#user-story)
+  - [Sprintin suunnittelu ja hallinta](/osa2#sprintin-suunnittelu)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/2) 
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat2) 
+
+### Viikko 3
+
+- Teoria (osa [3](/osa3) kohtaan _Tuotannossa tapahtuva laadunhallinta_ asti)
+  - [Laadunhallinnan perusteet](/osa3)
+  - [Ketterien menetelmien testauskäytänteet](/osa3#ketterien-menetelmien-testauska%CC%88yta%CC%88nteet)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/3)
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat3)
+### Viikko 4
+ 
+- Teoria (osa [3](/osa3) kohdasta _Tuotannossa tapahtuva laadunhallinta_ alkaen, osa [4](/osa4))
+  - [Tuotannossa tapahtuva laadunhallinta](/osa3#tuotannossa-tapahtuva-testaaminen-ja-laadunhallinta)
+  - [DevOps](/osa3#devops) 
+  - [Arkkitehtuurisuunnittelu](/osa4#ohjelmiston-arkkitehtuuri)
+  - [Arkkitehtuuri ketterissä menetemissä](/osa4#arkkitehtuuri-ketterissä-menetelmissä)
+  - [Olio/komponenttisuunnittelu](http://localhost:4000/osa4#olio/komponenttisuunnittelu)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/4)
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat4)
+
+### Viikko 5
+
+- Teoria (osa [5](/osa5))
+  - [Lean](/osa5#lean)
+  - [Laajan skaalan ketterä ohjelmistokehitys](/osa5#laajan-skaalan-kettera%CC%88-ohjelmistokehitys)
+  - [Ketterien menetelmien käyttö ja hyödyt tutkimuksen valossa](/osa5#ketterien-menetelmien-käyttö-ja-hyödyt-tutkimuksen-valossa)  
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/5)
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat5)
+
+### Viikko 6
+
+- Teoria
+  - Vierailuluento Juha Viljanen Smartly (linkki luentovideoon ilmestyy tähän myöhemmin)
+  - Vierailuluento Niko Laitinen Nitor (linkki luentovideoon ilmestyy tähän myöhemmin)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/6) 
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat6) 
+
+### Viikko 7
+
+- Teoria
+  - Vierailuluento Hannu Kokko Elisa (linkki luentovideoon ilmestyy tähän myöhemmin)
+  - Vierailuluento Marko Klemetti Eficode (linkki luentovideoon ilmestyy tähän myöhemmin)
+- Harjoitustehtävät
+  - [monivalintatehtävät](https://study.cs.helsinki.fi/stats/courses/ohtu2019/quiz/6)
+  - [ohjelmointi/versionhallinta/konfigurointitehtävät](/tehtavat7)
+
+### Viikko 8
+
+- Kurssikoe (Avoimen yliopiston Moodle-järjestelmässä)
+
+### Miniprojekti
+
+Voit osallistua miniprojektiin siinä vaiheessa kun olet tehnyt vähintään kurssin neljän ensimmäisen viikon tehtävät. Tietoa miniprojektien järjestämisestä tulossa myöhemmin.
+
 ## Typoja materiaalissa
 
 Kun huomaat kurssimateriaalissa kirjoitusvirheitä, tee korjausehdotus. Kurssimateriaali on repositoriossa
