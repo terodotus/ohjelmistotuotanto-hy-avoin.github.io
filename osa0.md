@@ -85,6 +85,14 @@ Miniprojekteja järjestetään sekä maalis- että huhtikuussa. Ensimmäisten as
 
 Voit osallistua miniprojektiin siinä vaiheessa kun olet tehnyt vähintään kurssin neljän ensimmäisen viikon tehtävät.
 
+#### Miniprojektin hyväksilukeminen
+
+Jos olet työskennellyt vähintään kolme kuukautta (täysipäiväisenä, tai vastaavan ajan osa-aikaisena) osana ketterää ohjelmistotuotantotiimiä, voit hyväksilukea miniprojektin suorituksen työkokemuksella.
+
+Hyväksilukeminen tapahtuu kirjoittamalla A4:n kokoinen selitys työtehtävistäsi ja tiimisi käyttämistä sovelluskehityskäytänteistä (jos työkokemusta on paljon, riittää että kerrot jostain tiimistä, jonka osana olet toiminut).
+
+Lähetä kirjoitelma ja sähköinen kopio työtodistuksesta sähköpostitse osoitteeseen matti.luukkainen@helsinki.fi
+
 ### Kurssin arvostelu
 
 Kurssin voi siis suorittaa joko 5 tai 6 opintopisteen laajuisena. 
@@ -102,6 +110,8 @@ Kuuden opintopisteen suorituksessa on jaossa yhteensä 40 pistettä, jotka jakau
 Arvosanaan 1 riittää 20 pistettä, arvosanaan 5 tarvitaan 36 pistettä. 
 
 Läpipääsy edellyttää vähintään puolia kokeen pisteistä.
+
+Jos hyväksiluet miniprojektin skaalataan harjoitusten ja kokeen pistemäärän summa kertomalla se 40/31:llä.
 
 #### 5 opintopisteen suoritua
 
@@ -132,6 +142,18 @@ Miniprojektin ideana on yhdistää teoria ja harjoituksissa käsitellyt teknisem
 Kokeessa suurin paino on teoriassa ja sen soveltamisessa käytäntöön. Harjoitustehtävien teknisimpiä asioita, kuten versionhallintaa ei kokeessa kysytä.
 
 Kuten kohta tulemme näkemään, ohjelmistotuotanto kattaa suuren kirjon erilaisia asioita alkaen ihmisten johtamisesta aina teknisimpiin komentoriviltä suoritettaviin operaatioihin asti. Sama heijastuu myös kurssin rakenteessa, kurssilla on eri henkisiä komponentteja, näistä yksikään ei ole muita tärkeämpi, kullakin on oma painoarvonsa kurssin arvostelussa. Teoria-asioita arvioidaan koemenestyksen perusteella, käytännöllisimpiä asioita taas "jatkuvana arviona" harjoitustehtävistä kertyvien pisteiden ja miniprojektissa suoriutumisen perusteella.
+
+## Ohjelmistotuotantoprojekti 10 op
+
+Kurssin suoritettuasi voit osallistua normaalisti ainoastaan Tietojenkäsittelytieteen pääaineopiskelijoille tarkoitettuun opintojaksoon [Ohjelmistotuotantoprojekti](https://courses.helsinki.fi/fi/aytkt20007/) joka järjestetään nyt ensimmäistä kertaa avoimen yliopiston toteutuksena.
+
+Projektissa 5-6 hengen opiskelijatiimit toteuttavat ketteriä menetelmiä soveltaen ohjelmiston ulkoiselle asiakkaalle.
+
+Opintojakso järjestetään 11.5.-27.6. Osallistuminen edellyttää päivittäistä noin 6 tunnin läsnäoloa Kumpulan kampuksella.
+
+Projektiin osallistujilla tulee olla ennen projektin alkua suoritettuna kurssit Ohjelmistotuotanto sekä [Full stack -websovelluskehitys](https://courses.helsinki.fi/fi/AYTKT21009) vähintään viiden opintopisteen laajuisena.
+
+Jos olet kiinnostunut projektiin osallistumisesta (etkä ole tietojenkäsittelytieteen pääaineopiskelija), lähetä sähköpostia osoitteeseen matti.luukkainen@helsinki.fi
 
 ## Typoja materiaalissa
 
