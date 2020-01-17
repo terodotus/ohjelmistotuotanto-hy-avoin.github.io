@@ -89,7 +89,7 @@ Voit osallistua miniprojektiin siinä vaiheessa kun olet tehnyt vähintään kur
 
 Jos olet työskennellyt vähintään kolme kuukautta (täysipäiväisenä, tai vastaavan ajan osa-aikaisena) osana ketterää ohjelmistotuotantotiimiä, voit hyväksilukea miniprojektin suorituksen työkokemuksella.
 
-Hyväksilukeminen tapahtuu kirjoittamalla A4:n kokoinen selitys työtehtävistäsi ja tiimisi käyttämistä sovelluskehityskäytänteistä (jos työkokemusta on paljon, riittää että kerrot jostain tiimistä, jonka osana olet toiminut).
+Hyväksilukeminen tapahtuu kirjoittamalla A4:n kokoinen selvitys työtehtävistäsi ja tiimisi käyttämistä sovelluskehityskäytänteistä (jos työkokemusta on paljon, riittää että kerrot jostain tiimistä, jonka osana olet toiminut).
 
 Lähetä kirjoitelma ja sähköinen kopio työtodistuksesta sähköpostitse osoitteeseen matti.luukkainen@helsinki.fi
 
@@ -145,13 +145,13 @@ Kuten kohta tulemme näkemään, ohjelmistotuotanto kattaa suuren kirjon erilais
 
 ## Ohjelmistotuotantoprojekti 10 op
 
-Kurssin suoritettuasi voit osallistua normaalisti ainoastaan Tietojenkäsittelytieteen pääaineopiskelijoille tarkoitettuun opintojaksoon [Ohjelmistotuotantoprojekti](https://courses.helsinki.fi/fi/aytkt20007/) joka järjestetään nyt ensimmäistä kertaa avoimen yliopiston toteutuksena.
+Kurssin suoritettuasi voit osallistua normaalisti ainoastaan Tietojenkäsittelytieteen pääaineopiskelijoille tarkoitettuun opintojaksoon [Ohjelmistotuotantoprojekti](https://courses.helsinki.fi/fi/aytkt20007/), joka järjestetään nyt ensimmäistä kertaa avoimen yliopiston toteutuksena.
 
-Projektissa 5-6 hengen opiskelijatiimit toteuttavat ketteriä menetelmiä soveltaen ohjelmiston ulkoiselle asiakkaalle.
+Projektissa 5-6 hengen opiskelijatiimit toteuttavat ketterien menetelmien parhaita käytänteitä soveltaen ohjelmiston ulkoiselle asiakkaalle. Projekti pyrkii simuloimaan mahdollisimman realistisesti oikeassa työelämässä tapahtuvaa sovelluskehitystä.
 
-Opintojakso järjestetään 11.5.-27.6. Osallistuminen edellyttää päivittäistä noin 6 tunnin läsnäoloa Kumpulan kampuksella.
+Opintojakso järjestetään 11.5.-27.6. Osallistuminen edellyttää päivittäistä noin 6 tunnin läsnäoloa Helsingin yliopiston Kumpulan kampuksella. 
 
-Projektiin osallistujilla tulee olla ennen projektin alkua suoritettuna kurssit Ohjelmistotuotanto sekä [Full stack -websovelluskehitys](https://courses.helsinki.fi/fi/AYTKT21009) vähintään viiden opintopisteen laajuisena.
+Projektiin osallistujilla tulee olla ennen projektin alkua suoritettuna tämän kurssin lisäksi kurssi [Full stack -websovelluskehitys](https://courses.helsinki.fi/fi/AYTKT21009) vähintään viiden opintopisteen laajuisena.
 
 Jos olet kiinnostunut projektiin osallistumisesta (etkä ole tietojenkäsittelytieteen pääaineopiskelija), lähetä sähköpostia osoitteeseen matti.luukkainen@helsinki.fi
 
