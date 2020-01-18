@@ -153,7 +153,9 @@ Opintojakso järjestetään 11.5.-27.6. Osallistuminen edellyttää päivittäis
 
 Projektiin osallistujilla tulee olla ennen projektin alkua suoritettuna tämän kurssin lisäksi kurssi [Full stack -websovelluskehitys](https://courses.helsinki.fi/fi/AYTKT21009) vähintään viiden opintopisteen laajuisena.
 
-Jos olet kiinnostunut projektiin osallistumisesta (etkä ole tietojenkäsittelytieteen pääaineopiskelija), lähetä sähköpostia osoitteeseen matti.luukkainen@helsinki.fi
+Projektiin otetaan enintään 30 avoimen yliopiston opiskelijaa. Jos pääsyvaatimukset täyttäviä halukkaita on enemmän, käytetään valinnan kriteerinä kaikkien avoimen yliopiston kautta suoritettujen tietojenkäsittelytieteen opintojen määrää.
+
+Jos olet kiinnostunut projektiin osallistumisesta (etkä ole tietojenkäsittelytieteen pääaineopiskelija), lähetä sähköpostia osoitteeseen matti.luukkainen@helsinki.fi. Kerro sähköpostissa lyhyesti tietojenkäsittelyn opinnoistasi sekä mahdollisestasi alan työkokemuksesta. Kerro myös miksi haluaisit osallistua projektiin.
 
 ## Aikataulu ja sisältö
 
