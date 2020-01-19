@@ -229,7 +229,7 @@ Manifestin [laatijoiden joukko](https://agilemanifesto.org/authors.html) koostuu
 
 Manifesti sisältää yllä olevan lisäksi 12 hieman konkreettisempaa toiminnan ohjeistusta antavaa ketterää periaatetta. Käydään periaatteet nyt läpi ja pohditaan myös niiden taustalla olevia ajatuksia.
 
-Aloitetan kolmesta periaatteesta.
+Aloitetaan kolmesta periaatteesta.
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
