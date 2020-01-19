@@ -163,7 +163,7 @@ Kurssin suoritusnopeus on siis vapaa, ja ainoa deadline harjoitustehtäville on 
 
 ### Viikko 1
 
-- Teoria (osat [0](/osa0) ja [1](/osa0))
+- Teoria (osat [0](/osa0) ja [1](/osa1))
   - [Johdanto](/osa0)
   - [Ohjelmistotuotantoprosessin vaiheet](/osa1#ohjelmistotuotanto-ja-sen-osa-alueet) 
   - [Ketterä ohjelmistokehitys](/osa1#ketterä-ohjelmistokehitys)
