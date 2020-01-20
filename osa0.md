@@ -26,7 +26,7 @@ Hieman tarkemmin eriteltynä, suoritettuaan kurssin opiskelija
 
 Kurssille ilmoittaudutaan [avoimen yliopiston](https://courses.helsinki.fi/fi/aytkt20006/129239628) sivuilla. Kurssi on kaikille maksuton.
 
-Kurssin kokeen sekä tehtävien tekeemiseen/palauttamiseen tarvitset Helsingin yliopiston käyttäjätunnuksen. Ohje tunnuksen aktivoimiseen [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opinnoissa-alkuun/helsingin-yliopiston-kayttajatunnus). Huomaa, että aktivoiminen onnistuu vasta ilmoittautumista seuraavana päivänä.
+Kurssin kokeen sekä tehtävien tekeemiseen/palauttamiseen tarvitset Helsingin yliopiston käyttäjätunnuksen. Ohje tunnuksen aktivoimiseen on [täällä](https://www.helsinki.fi/fi/avoin-yliopisto/opiskelu/opinnoissa-alkuun/helsingin-yliopiston-kayttajatunnus). Huomaa, että aktivoiminen onnistuu vasta ilmoittautumista seuraavana päivänä.
 
 ## Kurssin suorittaminen ja arvostelu
 
